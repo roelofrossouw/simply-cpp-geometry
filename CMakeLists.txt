@@ -10,7 +10,7 @@ message(STATUS "SimplyCPP ${SC_MODULE} Version: ${SC_VERSION}")
 
 # sc-core for the helpers, the tests and the examples; the library itself uses only the standard
 # library (it moved out of sc-core in 4.0.0).
-find_or_install_package(sc-core simply-cpp-dev simply-cpp 3.0.0) # TODO-CYCLE: 4.0.0
+find_or_install_package(sc-core simply-cpp-dev simply-cpp 4.0.0)
 
 set(SOURCE_OBJECTS)
 set(SOURCE_LIBRARIES)

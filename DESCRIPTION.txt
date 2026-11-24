@@ -1,0 +1,1 @@
+simply-cpp geometry: points, sizes, shapes (rect, polygon, circle, line, path), affine transforms, distances in real units, percentages, matrices and dual numbers
